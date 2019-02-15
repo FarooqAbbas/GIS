@@ -1,0 +1,52 @@
+Area;CancerType;Year;Sex;AgeAdjustedRate;DeathCount;Population;Longitude;Latitude
+Alaska;Urinary Bladder;2011-2015;Male and Female;3.7;93;3665095;64.84507996;-147.722059
+District of Columbia;Urinary Bladder;2011-2015;Male and Female;4.1;124;3234351;38.907192;-77.036871
+Wyoming;Urinary Bladder;2011-2015;Male and Female;4.3;131;2897371;43.23554134;-108.1098304
+Vermont;Urinary Bladder;2011-2015;Male and Female;5.8;227;3133386;43.62538124;-72.51764079
+South Dakota;Urinary Bladder;2011-2015;Male and Female;3.8;202;4214241;44.35313005;-100.3735306
+North Dakota;Urinary Bladder;2011-2015;Male and Female;3.9;170;3608321;47.47531978;-100.118421
+Delaware;Urinary Bladder;2011-2015;Male and Female;4.7;260;4629336;39.00883067;-75.57774117
+Utah;Urinary Bladder;2011-2015;Male and Female;3.7;405;14507037;39.36070017;-111.5871306
+Rhode Island;Urinary Bladder;2011-2015;Male and Female;5.2;360;5268472;41.70828019;-71.52247031
+New Hampshire;Urinary Bladder;2011-2015;Male and Female;4.9;394;6621196;43.65595011;-71.50036092
+Nebraska;Urinary Bladder;2011-2015;Male and Female;4;439;9341477;41.64104099;-99.36572062
+Montana;Urinary Bladder;2011-2015;Male and Female;4.9;315;5072271;47.06652897;-109.4244206
+Hawaii;Urinary Bladder;2011-2015;Male and Female;2.7;246;7017671;21.30485044;-157.8577494
+Idaho;Urinary Bladder;2011-2015;Male and Female;4.2;362;8078425;43.68263001;-114.36373
+West Virginia;Urinary Bladder;2011-2015;Male and Female;4.8;590;9254330;38.6655102;-80.71264013
+Alabama;Urinary Bladder;2011-2015;Male and Female;4.2;1154;24142446;32.84057112;-86.63186076
+Arkansas;Urinary Bladder;2011-2015;Male and Female;4.6;809;14793606;34.74865012;-92.27449074
+Colorado;Urinary Bladder;2011-2015;Male and Female;4;1020;26374297;38.84384076;-106.1336109
+Connecticut;Urinary Bladder;2011-2015;Male and Female;4.9;1124;17956294;41.56266102;-72.64984095
+South Carolina;Urinary Bladder;2011-2015;Male and Female;4.3;1144;23884555;33.9988213;-81.04537121
+Oregon;Urinary Bladder;2011-2015;Male and Female;4.6;1099;19685903;44.56744942;-120.1550313
+Oklahoma;Urinary Bladder;2011-2015;Male and Female;4.7;1002;19240656;35.47203136;-97.52107021
+New Mexico;Urinary Bladder;2011-2015;Male and Female;4.1;477;10410085;34.52088095;-106.240581
+Nevada;Urinary Bladder;2011-2015;Male and Female;5.2;708;13974179;39.49324039;-117.0718406
+Maine;Urinary Bladder;2011-2015;Male and Female;5.8;536;6646374;45.25422889;-68.98503134
+Louisiana;Urinary Bladder;2011-2015;Male and Female;4.1;991;23122075;31.31266064;-92.44568007
+Mississippi;Urinary Bladder;2011-2015;Male and Female;3.8;618;14935379;32.7455101;-89.53803082
+Kansas;Urinary Bladder;2011-2015;Male and Female;4.3;718;14453667;38.3477403;-98.20078123
+Kentucky;Urinary Bladder;2011-2015;Male and Female;4.7;1141;21992298;37.64597027;-84.77497105
+Iowa;Urinary Bladder;2011-2015;Male and Female;4.3;855;15463490;42.46940091;-93.81649056
+Wisconsin;Urinary Bladder;2011-2015;Male and Female;4.6;1618;28704939;44.39319117;-89.81637074
+Arizona;Urinary Bladder;2011-2015;Male and Female;4.2;1637;33178972;34.86597028;-111.7638113
+California;Urinary Bladder;2011-2015;Male and Female;3.9;7653;191697888;37.63864012;-120.9999995
+Texas;Urinary Bladder;2011-2015;Male and Female;3.7;4285;132565959;31.82724041;-99.42677021
+Tennessee;Urinary Bladder;2011-2015;Male and Female;4.3;1549;32486480;35.68094058;-85.77449091
+Pennsylvania;Urinary Bladder;2011-2015;Male and Female;4.9;4201;63879954;40.79373015;-77.86070029
+Ohio;Urinary Bladder;2011-2015;Male and Female;5;3559;57865183;40.06021014;-82.40426006
+Virginia;Urinary Bladder;2011-2015;Male and Female;4.3;1855;41249734;37.54268067;-78.45789046
+Washington;Urinary Bladder;2011-2015;Male and Female;4.9;1812;34900238;47.52227863;-120.4700108
+North Carolina;Urinary Bladder;2011-2015;Male and Female;4.3;2292;49208313;35.46622098;-79.15925046
+New York;Urinary Bladder;2011-2015;Male and Female;4.3;5030;98261542;42.82700103;-75.54397043
+New Jersey;Urinary Bladder;2011-2015;Male and Female;4.8;2514;44474038;40.13057005;-74.27369129
+Massachusetts;Urinary Bladder;2011-2015;Male and Female;4.7;1931;33510868;42.27687047;-72.08269067
+Michigan;Urinary Bladder;2011-2015;Male and Female;4.8;2865;49495915;44.66131954;-84.71439027
+Maryland;Urinary Bladder;2011-2015;Male and Female;4.8;1539;29626661;39.29058096;-76.60926011
+Minnesota;Urinary Bladder;2011-2015;Male and Female;4;1244;27082912;46.35564874;-94.7942005
+Missouri;Urinary Bladder;2011-2015;Male and Female;4.3;1534;30215977;38.63579078;-92.56630005
+Illinois;Urinary Bladder;2011-2015;Male and Female;4.4;3139;64316906;40.48501028;-88.99771018
+Indiana;Urinary Bladder;2011-2015;Male and Female;4.9;1795;32831326;39.76691045;-86.14996019
+Georgia;Urinary Bladder;2011-2015;Male and Female;4.6;2075;49997845;32.83968109;-83.62758035
+Florida;Urinary Bladder;2011-2015;Male and Female;4.3;6204;98156785;28.93204038;-81.92896054
